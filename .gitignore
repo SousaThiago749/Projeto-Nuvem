@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Ignore .env files
+.env
